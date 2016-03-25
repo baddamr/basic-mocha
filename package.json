@@ -1,0 +1,27 @@
+{
+  "name": "basic-mocha",
+  "version": "1.0.0",
+  "description": "basic mocha project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baddamr/basic-mocha.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "reddyb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baddamr/basic-mocha/issues"
+  },
+  "homepage": "https://github.com/baddamr/basic-mocha#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
